@@ -2,3 +2,4 @@ node_modules
 public
 *.json
 README.md
+SECRET_API_KEY
